@@ -2,9 +2,12 @@
   "name": "aaloojs",
   "version": "1.0.0",
   "description": "Potatofy your console logging",
-  "main": "index.js",
+  "main": "dist/aaloo.es.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "vite",
+    "build": "vite build",
+    "test": "node test.js"
   },
   "keywords": [
     "npm",
@@ -12,5 +15,9 @@
     "package"
   ],
   "author": "Big Iron Drisk",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.5.3",
+    "vite": "^5.3.4"
+  }
 }
