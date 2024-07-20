@@ -1,0 +1,16 @@
+{
+  "name": "aaloojs",
+  "version": "1.0.0",
+  "description": "Potatofy your console logging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "module",
+    "package"
+  ],
+  "author": "Big Iron Drisk",
+  "license": "MIT"
+}
