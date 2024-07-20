@@ -1,2 +1,9 @@
 # aaloojs
-Elevate your console logging
+Potatofy your console logging 🥔
+
+
+## Installing
+
+
+## Example
+
