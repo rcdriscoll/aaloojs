@@ -8,6 +8,10 @@ class Aaloo {
     log(...args) {
         console.log(" 🥔 ", ...args)
     }
+
+    sharvil() {
+        console.log("🥔")
+    }
 }
 
 const aaloo = new Aaloo()
