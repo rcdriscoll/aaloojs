@@ -1,19 +1,23 @@
-console.log(" 🥔 Powered by aaloojs 🥔 ")
+console.log(" 🥔 Powered by aaloojs 🥔 ");
 
 class Aaloo {
-    error(...args) {
-        console.error(" 🥔 ", ...args)
-    }
+  error(...args) {
+    console.error(" 🥔 ", ...args);
+  }
 
-    log(...args) {
-        console.log(" 🥔 ", ...args)
-    }
+  log(...args) {
+    console.log(" 🥔 ", ...args);
+  }
 
-    sharvil() {
-        console.log("🥔")
-    }
+  sharvil() {
+    console.log("🥔");
+  }
+
+  ryan() {
+    console.log("🍠");
+  }
 }
 
-const aaloo = new Aaloo()
+const aaloo = new Aaloo();
 
 export default aaloo;
