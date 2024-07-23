@@ -1,6 +1,6 @@
 {
   "name": "aaloojs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Potatofy your console logging",
   "main": "dist/aaloo.es.js",
   "type": "module",
